@@ -4,7 +4,7 @@
 
 :root {
   --background: #ffffff;
-  --foreground: #0e0e0e;
+  --foreground: #000000;
 }
 
 body {
@@ -15,7 +15,7 @@ body {
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: #1c1c1c;
+    --background: #000000;
     --foreground: #e4e4e4;
   }
 }
