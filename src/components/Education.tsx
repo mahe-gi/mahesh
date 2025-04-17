@@ -52,7 +52,7 @@ export default function Education() {
               />
               <div className="text-base font-medium w-full">
                 <h3 className="font-medium text-gray-800 dark:text-gray-100">
-                  Gov't MVS degree & pg college, Mahabubnagar
+                  Govt MVS degree & pg college, Mahabubnagar
                 </h3>
                 <div className="flex flex-col sm:flex-row justify-between font-normal text-sm text-gray-500 dark:text-gray-400">
                   <p>

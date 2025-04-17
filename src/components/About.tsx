@@ -15,8 +15,8 @@ const About = () => {
         <li className="flex items-start">
           <span className="mr-2 flex-shrink-0">🎓</span>
           <span>
-            Got a Master's degree in Computer Applications, Building web-apps
-            for passion.
+            Got a Masters degree in Computer Applications, Building web-apps for
+            passion.
           </span>
         </li>
         <li className="flex items-start">
