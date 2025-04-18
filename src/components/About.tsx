@@ -35,14 +35,14 @@ const About = () => {
             <LuGithub size={25} />
           </a>
           <a
-            href="https://twitter.com/mahe-tw"
+            href="https://twitter.com/mahe_tw"
             className="hover:text-blue-500 dark:hover:text-blue-400"
             aria-label="Twitter"
           >
             <FaXTwitter size={25} />
           </a>
           <a
-            href="https://www.linkedin.com/in/mahe-sde/"
+            href="https://www.linkedin.com/in/mahesh-sde/"
             className="hover:text-blue-600 dark:hover:text-blue-400"
             aria-label="LinkedIn"
           >

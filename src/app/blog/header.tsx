@@ -29,7 +29,7 @@ export function Header({ posts }: { posts: Post[] }) {
           <span className="md:inline">
             <span>
               <a
-                href="https://x.com/mahe-tw"
+                href="https://x.com/mahe_tw"
                 className="hover:text-gray-800 dark:hover:text-gray-400"
                 target="_blank"
               >
