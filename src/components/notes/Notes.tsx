@@ -14,7 +14,7 @@ export default function Notes() {
               }
             >
               {" "}
-              CLICK HERE TO OPEN DOC !
+              CLICK HERE TO DOWNLOAD VERB-FORMS-PDF !
             </Link>
           </span>
         </h1>
