@@ -10,7 +10,7 @@ export default function Notes() {
             {" "}
             <Link
               href={
-                "https://massive-dodo-f8e.notion.site/MANOJ-SIR-CLASS-1e576887e01a80bbb228f33850ae2b74"
+                "https://file.notion.so/f/f/38ecacd6-6662-4a8d-9245-40111a0a5cfb/6f0a057e-526d-4dee-a753-e2f837ba888c/do1.pdf?table=block&id=1e576887-e01a-805e-86e9-c0afbd5b2125&spaceId=38ecacd6-6662-4a8d-9245-40111a0a5cfb&expirationTimestamp=1746093600000&signature=E0Hc9blq2JK5mnFrggjlesJVLJZyhfXtfImmzvpzd9M&downloadName=Verbs_doc.pdf"
               }
             >
               {" "}
